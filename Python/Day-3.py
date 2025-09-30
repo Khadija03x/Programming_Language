@@ -96,3 +96,4 @@ print("You live ", seconds, " seconds.")
 # 23. Write a Python script that displays the following table
 for n in range(1,6): #from 1 to 5
     print(n," " ,n**0 ," ",n**1," ",n**2," ", n**3)
+    #end()
